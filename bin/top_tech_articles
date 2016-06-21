@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "top_tech_articles"
+
+require './lib/top_tech_articles/'
+
+TopTechArticles::CLI.new.call
