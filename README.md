@@ -1,8 +1,6 @@
 # TopTechArticles
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/top_tech_articles`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to Top Tech Articles, the gem that delivers the day's top headlines in the world of tech, powered by C|net (www.cnet.com). 
 
 ## Installation
 
@@ -22,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+type the below and follow the on screen prompts.
+./bin/top_tech_articles 
 
 ## Development
 
@@ -32,7 +31,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/top_tech_articles.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ndaniele/top_tech_articles.
 
 
 ## License
