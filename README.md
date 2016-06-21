@@ -16,12 +16,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install top_tech_articles
+    $ gem install ./top_tech_articles-0.1.0.gem
 
 ## Usage
 
 type the below and follow the on screen prompts.
-./bin/top_tech_articles 
+    
+    $ top_tech_articles
 
 ## Development
 
